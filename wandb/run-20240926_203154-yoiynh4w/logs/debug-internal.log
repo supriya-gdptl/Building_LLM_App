@@ -1,0 +1,91 @@
+{"time":"2024-09-26T20:31:54.032044-07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T20:31:54.032099-07:00","level":"INFO","msg":"created symlink","path":"/Users/supriya/MY_HOME/Work/Weights and biases/Builiding_LLM_App/wandb/run-20240926_203154-yoiynh4w/logs/debug-core.log"}
+{"time":"2024-09-26T20:31:54.03217-07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T20:31:54.03218-07:00","level":"INFO","msg":"created symlink","path":"/Users/supriya/MY_HOME/Work/Weights and biases/Builiding_LLM_App/wandb/run-20240926_203154-yoiynh4w/logs/debug-core.log"}
+{"time":"2024-09-26T20:31:54.043789-07:00","level":"INFO","msg":"created new stream","id":"yoiynh4w"}
+{"time":"2024-09-26T20:31:54.043893-07:00","level":"INFO","msg":"stream: started","id":"yoiynh4w"}
+{"time":"2024-09-26T20:31:54.043887-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"yoiynh4w"}}
+{"time":"2024-09-26T20:31:54.043914-07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"yoiynh4w"}}
+{"time":"2024-09-26T20:31:54.044-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yoiynh4w"}}
+{"time":"2024-09-26T20:31:54.292559-07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-26T20:31:54.293844-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-26T20:31:54.429135-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-26T20:32:01.275421-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-26T20:32:01.910863-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-26T22:05:28.207235-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-26T22:55:14.334078-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-26T23:28:17.101258-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T00:19:03.600834-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T00:35:50.065218-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T01:10:49.181928-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T01:58:18.930144-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T02:45:51.376645-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T03:18:19.774033-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:07:22.509956-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:34:59.032939-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:01.336368-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:02.679864-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:05.135411-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:05.766671-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:09.779562-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:14.558895-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:18.221415-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:30.698325-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:35:35.966082-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T04:52:56.375829-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T05:41:13.376471-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T06:32:27.188782-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T07:00:05.216613-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T07:16:35.449895-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T08:04:43.161741-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T08:53:07.925403-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T09:26:34.986431-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T10:43:29.211733-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T10:55:22.904516-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T11:35:13.947886-07:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/supriyagdptl/llmapps/yoiynh4w/file_stream"}
+{"time":"2024-09-27T12:11:27.8882-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T12:38:35.238508-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T14:26:28.861593-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T15:04:42.210707-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T16:41:28.878193-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T17:12:36.158387-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T18:03:17.185196-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T18:38:18.923784-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T19:28:04.654502-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T20:17:14.421482-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T21:06:10.162886-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T21:38:19.169728-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T22:29:44.842721-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-27T23:42:59.70367-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T00:32:49.202968-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T01:05:34.300543-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T01:56:24.944782-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T02:47:21.682462-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T03:36:26.305535-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T04:10:28.446384-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T04:26:38.508965-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T05:00:09.680082-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T05:18:01.677351-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T06:08:05.330291-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T06:57:55.157467-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T07:51:48.649406-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T08:42:59.988458-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T09:34:30.575602-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T10:06:39.741995-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T10:59:20.382535-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T11:48:11.150491-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T12:36:20.78675-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T12:56:04.165532-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T13:54:18.008513-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T14:29:27.17115-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T15:16:02.856345-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-28T15:35:41.246026-07:00","level":"INFO","msg":"stream: closing","id":"yoiynh4w"}
+{"time":"2024-09-28T15:35:41.246085-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-28T15:35:41.246409-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-28T15:35:41.371801-07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-09-28T15:35:41.371825-07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-09-28T15:35:41.371833-07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-09-28T15:35:41.960556-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"yoiynh4w"}}
+{"time":"2024-09-28T15:35:41.960598-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"yoiynh4w"}}
+{"time":"2024-09-28T15:35:41.960889-07:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"yoiynh4w"}}
+{"time":"2024-09-28T15:35:41.961262-07:00","level":"INFO","msg":"stream: closed","id":"yoiynh4w"}

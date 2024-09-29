@@ -1,0 +1,12 @@
+[56730, 612, 12371, 2315, 374, 12738, 0]
+Weights & Biases is awesome!
+56730	Weights
+612	 &
+12371	 Bi
+2315	ases
+374	 is
+12738	 awesome
+0	!
+[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+weave 0.51.8 requires openai>=1.0.0, but you have openai 0.28.0 which is incompatible.[0m[31m
+[0mNote: you may need to restart the kernel to use updated packages.
