@@ -1,0 +1,32 @@
+{
+  "os": "macOS-12.6-arm64-arm-64bit",
+  "python": "3.8.16",
+  "startedAt": "2024-09-24T23:56:23.127739Z",
+  "program": "01_Using_APIs.ipynb",
+  "email": "supriyagdptl@gmail.com",
+  "root": "/Users/supriya/MY_HOME/Work/Weights and biases/Builiding_LLM_App",
+  "host": "pegasus.local",
+  "username": "supriya",
+  "executable": "/Users/supriya/opt/anaconda3/envs/arxiv3d/bin/python",
+  "codePathLocal": "01_Using_APIs.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "178473181184"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "gpuapple": {
+    "gpuType": "Apple M1 Pro",
+    "vendor": "sppci_vendor_Apple",
+    "cores": 14
+  }
+}

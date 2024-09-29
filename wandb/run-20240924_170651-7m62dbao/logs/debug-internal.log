@@ -1,0 +1,34 @@
+{"time":"2024-09-24T17:06:51.350611-07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-24T17:06:51.350659-07:00","level":"INFO","msg":"created symlink","path":"/Users/supriya/MY_HOME/Work/Weights and biases/Builiding_LLM_App/wandb/run-20240924_170651-7m62dbao/logs/debug-core.log"}
+{"time":"2024-09-24T17:06:51.350742-07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-24T17:06:51.350759-07:00","level":"INFO","msg":"created symlink","path":"/Users/supriya/MY_HOME/Work/Weights and biases/Builiding_LLM_App/wandb/run-20240924_170651-7m62dbao/logs/debug-core.log"}
+{"time":"2024-09-24T17:06:51.357812-07:00","level":"INFO","msg":"created new stream","id":"7m62dbao"}
+{"time":"2024-09-24T17:06:51.357866-07:00","level":"INFO","msg":"stream: started","id":"7m62dbao"}
+{"time":"2024-09-24T17:06:51.3579-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"7m62dbao"}}
+{"time":"2024-09-24T17:06:51.357937-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"7m62dbao"}}
+{"time":"2024-09-24T17:06:51.357901-07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"7m62dbao"}}
+{"time":"2024-09-24T17:06:52.208101-07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-24T17:06:52.20939-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-24T17:06:52.367722-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-24T17:06:58.217922-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-24T17:06:59.138869-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-24T17:07:01.747551-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-24T17:07:01.752023-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-24T17:07:10.314391-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-24T17:07:10.31719-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-24T17:07:13.740851-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-24T17:07:14.363754-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-24T17:41:40.512434-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-24T17:55:27.20833-07:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-24T17:56:18.858469-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-24T17:56:19.487292-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-24T17:56:33.53715-07:00","level":"INFO","msg":"stream: closing","id":"7m62dbao"}
+{"time":"2024-09-24T17:56:33.537244-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-24T17:56:33.537776-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-24T17:56:33.646305-07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-09-24T17:56:33.646433-07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-09-24T17:56:33.646464-07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-09-24T17:56:34.172113-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"7m62dbao"}}
+{"time":"2024-09-24T17:56:34.172125-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"7m62dbao"}}
+{"time":"2024-09-24T17:56:34.1724-07:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"7m62dbao"}}
+{"time":"2024-09-24T17:56:34.17265-07:00","level":"INFO","msg":"stream: closed","id":"7m62dbao"}
